@@ -1,0 +1,32 @@
+_repo: Great-Indian-Chief-of-the-WestOr-Life-and-Adventures-of-Black-Hawk_18290
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drake, Benjamin
+    birthdate: 1794
+    deathdate: 1841
+    gutenberg_agent_id: '6138'
+    url: http://www.gutenberg.org/2009/agents/6138
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Drake
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2006-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black Hawk, Sauk chief, 1767-1838'
+- !lcsh 'Keokuk, Sauk chief, 1780?-1848'
+- !lcc 'E011'
+- !lcsh 'Black Hawk War, 1832'
+- !lcsh 'Fox Indians -- History'
+- !lcsh 'Sauk Indians -- History'
+title: Great Indian Chief of the West; Or, Life and Adventures of Black Hawk
+url: http://www.gutenberg.org/ebooks/18290
