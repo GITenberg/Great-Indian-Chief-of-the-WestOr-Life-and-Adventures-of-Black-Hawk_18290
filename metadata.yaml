@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6138
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Drake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18290#Great-Indian-Chief-of-the-WestOr-Life-and-Adventures-of-Black-Hawk
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-04-30'
 gutenberg_type: Text
